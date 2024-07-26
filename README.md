@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+# I am Wen Bing, a Year 2 Diploma in Applied AI and Analytics student. 
 <!--
 **wongwenbing/wongwenbing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
